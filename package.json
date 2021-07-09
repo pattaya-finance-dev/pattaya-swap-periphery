@@ -1,14 +1,14 @@
 {
-  "name": "pantherswap-peripheral",
+  "name": "pattayaswap-peripheral",
   "version": "1.2.0",
-  "description": "Peripheral smart contracts for interacting with panther",
+  "description": "Peripheral smart contracts for interacting with Pattaya",
   "engines": {
     "node": ">=10"
   },
-  "homepage": "https://pantherswap.com",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pantherswap/panther-swap-periphery.git"
+    "url": "https://github.com/pattaya-finance-dev/pattaya-swap-periphery"
   },
   "files": [
     "build",
@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "@uniswap/lib": "1.1.1",
-    "@pantherswap-libs/panther-swap-core": "0.1.0",
+    "@pattayaswap-dev-libs/core": "2.0.1",
     "truffle-hdwallet-provider": "^1.0.17",
     "truffle-plugin-verify": "^0.4.0"
   },
